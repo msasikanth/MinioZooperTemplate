@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dashboard_author2">Designer - Your Name</string>
+    <string name="dashboard_author_desc2">
+        <![CDATA[
+         These Zooper Widgets are made by me.
+        ]]>
+    </string>
+
+
+
+    <string name="app_gplus">https://plus.google.com/communities/104542610436323860996</string>
+    <string name="author_link1"></string>
+    <string name="author_link2"></string>
+
+</resources>

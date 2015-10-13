@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string-array name="fullchangelog">
+        <item>@array/v10</item>
+        <item>@array/note</item>
+    </string-array>
+
+    <string-array name="v10">
+        <item>"v 1.0:"</item>
+        <item>"Initial Dashboard Launch.</item>
+    </string-array>
+
+    <string-array name="note">
+        <item>Note : </item>
+        <item>For Android 6.0 above devices allow storage permission in order to install IconSets and Fonts.</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dashboard_author">Developer - Sasi Kanth</string>
+    <string name="dashboard_author_desc">
+        <![CDATA[
+        This <b>Zooper Dash Template</b> was developed by <b>Sasi Kanth</b> : Graphic Designer and Android App Developer. Feel free to Contact me for Client work.
+        ]]>
+    </string>
+
+    <string name="zooper_pro">Zooper Pro not Installed</string>
+    <string name="install_package">The Zooper Pro is not installed in your device, In order to use this Zooper pack you need to install Zooper Pro. Get Zooper pro from the links in the app.</string>
+
+    <string name="author_instagram">http://instagram.com/_u/sasikanth_</string>
+    <string name="author_plus">https://plus.google.com/+Sasikanth</string>
+    <string name="author_source">https://github.com/sasikanth01/MinioZooperTemplate</string>
+
+    <string name="copyright">Copyright © 2015</string>
+    <string name="license">Licensed under MIT License.</string>
+</resources>

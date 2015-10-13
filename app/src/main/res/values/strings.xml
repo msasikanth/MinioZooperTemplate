@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Minio Dash</string>
+    <string name="app">Material Dash for your Zooper widgets</string>
+    <string name="app_version">v1.0</string>
+    <string name="fonts">Install Fonts</string>
+    <string name="fonts_desc">Install fonts to have a better experience.</string>
+    <string name="icons">Install IconSets</string>
+    <string name="icons_desc">Install in case widgets don\'t show IconSets.</string>
+    <string name="install">INSTALL</string>
+    <string name="favorite">Rate</string>
+
+    <string name="zooper">Install Zooper Pro</string>
+    <string name="zooper_desc">Zooper widget pro is required for these widgets to work.</string>
+    <string name="play">Google Play</string>
+    <string name="amazon">Amazon App Store</string>
+
+    <string name="about">About</string>
+    <string name="about_desc">Click to know more about the developer and designer.</string>
+
+    <string name="install_zooper">org.zooper.zwpro</string>
+
+    <string name="warn">IconSets and Fonts wont be installed unless you Allow Storage Permission.</string>
+
+    <string name="font_install">Fonts are successfully installed.</string>
+    <string name="icon_install">IconSets are successfully installed.</string>
+    <string name="ok">OK</string>
+
+    <string name="gplus">GOOGLE+</string>
+    <string name="gpluscommunity">G+ COMMUNITY</string>
+    <string name="instagram">INSTAGRAM</string>
+    <string name="source">SOURCE</string>
+    <string name="changelog">CHANGELOG</string>
+
+    <string name="changelog_title">Changelog</string>
+    <string name="great">Great!</string>
+
+    <string name="important_con">The IconSets and Fonts used in this Zooper Pack doesnt seem to be Installed, Install them now.</string>
+    <string name="important">IMPORTANT!!</string>
+
+</resources>
