@@ -71,7 +71,7 @@ for supporting this project.
 
 #Donate :
 
-I am not charging for the dash, If you like it and want to donate a few buck for the work i will be thankful to you.
+I am not charging for the dash, If you like it and want to donate a few bucks for the work i will be thankful to you.
 
 Donate to sasikanthmiriyampalli@gmail.com through PayPal.
 
