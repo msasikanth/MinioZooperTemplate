@@ -7,7 +7,7 @@ Minio Zooper Tempalte is a Simple, Fast and Beautiful dash for your Zooper widge
 # Features :
 
 - Ability to Install IconSets and Fonts.
-- Notifies user if the IconSets and Fonts are installed on the device.|
+- Notifies user if the IconSets and Fonts are not installed on the device.
 - Clean UI with minimalistic approch.
 - Completely Open Soruce and people can contribute and improve it further.
 - Andorid 6.0 ready with permission manager.
