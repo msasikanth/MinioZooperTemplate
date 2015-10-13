@@ -69,3 +69,10 @@ Thanks to :
 
 for supporting this project.
 
+#Donate :
+
+I am not charging for the dash, If you like it and want to donate a few buck for the work i will be thankful to you.
+
+Dontae to sasikanthmiriyampalli@gmail.com through PayPal.
+
+Hope you enjoy this Dash :D
