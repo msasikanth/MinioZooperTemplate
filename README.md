@@ -16,7 +16,7 @@ Minio Zooper Tempalte is a Simple, Fast and Beautiful dash for your Zooper widge
 
 #Sample :
 
-Sample application can be downlaoded here : 
+Sample application can be downlaoded here : https://drive.google.com/file/d/0B_rCwhQM7WGbcno1SlpOQlc2NVE/view?usp=sharing
 
 # Implementation : 
 
