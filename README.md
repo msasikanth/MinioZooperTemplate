@@ -12,7 +12,7 @@ Minio Zooper Tempalte is a Simple, Fast and Beautiful dash for your Zooper widge
 - Completely Open Soruce and people can contribute and improve it further.
 - Andorid 6.0 ready with permission manager.
 - About section to contact and know about developer quickly.
-- Requires Android 16+ (Android 4.1+) .
+- Requires API 16+ (Android 4.1+) .
 
 #Sample :
 
