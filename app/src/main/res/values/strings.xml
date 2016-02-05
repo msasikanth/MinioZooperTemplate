@@ -8,6 +8,10 @@
     <string name="icons_desc">Install in case widgets don\'t show IconSets.</string>
     <string name="install">INSTALL</string>
     <string name="favorite">Rate</string>
+    <string name="widget_preview">Preview Widgets</string>
+    <string name="widget_preview_desc">Click to preview the widgets</string>
+    <string name="preview">PREVIEW</string>
+
 
     <string name="zooper">Install Zooper Pro</string>
     <string name="zooper_desc">Zooper widget pro is required for these widgets to work.</string>

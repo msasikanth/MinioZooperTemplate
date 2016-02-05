@@ -24,6 +24,14 @@
         </activity>
 
         <activity
+            android:name=".PreviewActivity"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/AppTheme"
+            android:label="@string/widget_preview" >
+        </activity>
+
+        <activity
             android:name=".About"
             android:screenOrientation="portrait"
             android:configChanges="orientation|keyboardHidden"

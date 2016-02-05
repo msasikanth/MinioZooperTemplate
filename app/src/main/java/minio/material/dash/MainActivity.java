@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView install2;
     private TextView play;
     private TextView amazon;
+    private TextView preview;
     private CoordinatorLayout uilayout;
     private Preferences mPrefs;
     private static final int REQUEST_READ_STORAGE = 1;
@@ -132,6 +133,16 @@ public class MainActivity extends AppCompatActivity {
                         });
 
                 snackbar.show();
+            }
+        });
+
+        preview = (TextView) findViewById(R.id.preview);
+        preview.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent preview = new Intent(MainActivity.this, PreviewActivity.class);
+                startActivity(preview);
+
             }
         });
 
