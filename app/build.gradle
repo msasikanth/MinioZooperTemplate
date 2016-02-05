@@ -32,6 +32,10 @@ dependencies {
         transitive = true
     }
     compile 'com.android.support:support-v4:23.1.1'
-    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+
+    //Widget Preview
     compile 'com.pddstudio:zooperutils:0.0.4'
+
+    //Status Bar Tint
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
 }

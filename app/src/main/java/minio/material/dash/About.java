@@ -33,7 +33,6 @@ public class About extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
-
         mStatusBarManager = new SystemBarTintManager(this);
         mStatusBarManager.setStatusBarTintEnabled(true);
         mStatusBarManager.setStatusBarTintColor(getResources().getColor(R.color.colorPrimary));

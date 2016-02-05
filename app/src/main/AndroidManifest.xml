@@ -27,7 +27,7 @@
             android:name=".PreviewActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation|keyboardHidden"
-            android:theme="@style/AppTheme"
+            android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/widget_preview" >
         </activity>
 
