@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="zooperutils-0.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pddstudio/zooperutils/0.0.4/jars/libs/zip4j_1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pddstudio/zooperutils/0.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pddstudio/zooperutils/0.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.pddstudio/zooperutils/0.0.4/jars/libs/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pddstudio/zooperutils/0.0.4/c90e7113220bd90f866ee2fff5bf4d0c25052c1e/zooperutils-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
